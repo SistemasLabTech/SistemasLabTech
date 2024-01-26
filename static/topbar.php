@@ -11,7 +11,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 col-sm-6">
+				<!-- <div class="col-md-6 col-sm-6">
 					<div class="right-top">
 						<div class="social-box">
 							<ul>
@@ -23,7 +23,7 @@
 							<ul>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
