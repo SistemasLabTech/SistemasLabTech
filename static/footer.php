@@ -49,8 +49,8 @@
     <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->
-    <script src="assets/js/all.js"></script>
+    <script  src="assets/js/all.js"></script>
     <!-- ALL PLUGINS -->
-    <script src="assets/js/custom.js"></script>
-    <script src="assets/js/portfolio.js"></script>
-    <script src="assets/js/hoverdir.js"></script>    
+    <script defer async src="assets/js/custom.js"></script>
+    <script defer async src="assets/js/portfolio.js"></script>
+    <script defer async  src="assets/js/hoverdir.js"></script>    
