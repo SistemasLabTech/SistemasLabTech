@@ -4,7 +4,7 @@
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="widget clearfix">
                         <div class="widget-title">
-                            <img src="assets/images/logos/logo-2.png" alt="" />
+                            <img src="https://www.mepacsa.com/images/logo-foot.png" alt="" />
                         </div>
                         <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
                         <p>Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
@@ -14,7 +14,7 @@
 				<div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="widget clearfix">
                         <div class="widget-title">
-                            <h3>Pages</h3>
+                            <h3>Páginas</h3>
                         </div>
 
                         <ul class="footer-links hov">
@@ -28,21 +28,7 @@
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 				
-                <div class="col-md-4 col-sm-4 col-xs-12">
-                    <div class="footer-distributed widget clearfix">
-                        <div class="widget-title">
-                            <h3>Subscribe</h3>
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which one know this tricks.</p>
-                        </div>
-						
-						<div class="footer-right">
-							<form method="get" action="#">
-								<input placeholder="Subscribe our newsletter.." name="search">
-								<i class="fa fa-envelope-o"></i>
-							</form>
-						</div>                        
-                    </div><!-- end clearfix -->
-                </div><!-- end col -->
+                
             </div><!-- end row -->
         </div><!-- end container -->
     </footer><!-- end footer -->
@@ -51,8 +37,8 @@
         <div class="container">
             <div class="footer-distributed">
                 <div class="footer-left">                   
-                    <p class="footer-company-name">All Rights Reserved. &copy; 2018 <a href="#">GoodWEB</a> Design By : 
-					<a href="https://html.design/">html design</a></p>
+                    <p class="footer-company-name">Todos los derechos reservados. &copy; 2024 <a href="https://www.mepacsa.com/">Maniobras Estratégicas del Pacífico S.A. de C.V.</a> Desarrollado por: 
+					<a href="https://sistemaslab.tech/">Sistemas Lab Tech</a></p>
                 </div>
 
                 
