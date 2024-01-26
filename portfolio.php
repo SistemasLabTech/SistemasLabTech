@@ -74,8 +74,8 @@
 
             <div id="da-thumbs" class="da-thumbs portfolio">
                 <div class="post-media pitem item-w1 item-h1 cat1">
-                    <a href="uploads/portfolio_01.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_01.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_01.jpg" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_01.jpg" alt="" class="img-responsive">
                         <div>
                             <h3>Seahorse by Trevor <small>Web Design</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -83,8 +83,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat2">
-                    <a href="uploads/portfolio_02.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_02.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_02.jpg" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_02.jpg" alt="" class="img-responsive">
                         <div>
                             <h3>Tradested Mockop <small>Graphic Design</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -92,8 +92,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat1">
-                    <a href="uploads/portfolio_03.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_03.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_03.jpg" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_03.jpg" alt="" class="img-responsive">
                         <div>
                             <h3>Photography Material <small>Photography</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -101,8 +101,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat4">
-                    <a href="uploads/portfolio_04.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_04.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_04.jpg" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_04.jpg" alt="" class="img-responsive">
                         <div>
                             <h3>Responsive Menu <small>UI Design</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -110,8 +110,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat3">
-                    <a href="uploads/portfolio_05.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_05.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_05.jpg" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_05.jpg" alt="" class="img-responsive">
                         <div>
                             <h3>SnowMaker App <small>Application</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -119,8 +119,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat2">
-                    <a href="uploads/portfolio_06.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_06.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_06.jpg" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_06.jpg" alt="" class="img-responsive">
                         <div>
                             <h3>3D Mockups <small>Graphic Design</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -128,8 +128,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat1">
-                    <a href="uploads/portfolio_07.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_07.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_07.jpg" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_07.jpg" alt="" class="img-responsive">
                         <div>
                             <h3>Best of Design <small>Web Design</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -137,8 +137,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat4">
-                    <a href="uploads/portfolio_08.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_08.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_08.jpg" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_08.jpg" alt="" class="img-responsive">
                         <div>
                             <h3>Admin Dashboard <small>Admin Template</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -146,8 +146,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat3">
-                    <a href="uploads/portfolio_09.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_09.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_09.jpg" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_09.jpg" alt="" class="img-responsive">
                         <div>
                             <h3>Radio Mockup <small>Graphic Design</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -156,8 +156,8 @@
                 </div>
 
                 <div class="post-media pitem item-w1 item-h1 cat2">
-                    <a href="uploads/portfolio_10.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_10.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_10.jpg" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_10.jpg" alt="" class="img-responsive">
                         <div>
                             <h3>Danny Jeffers <small>Web Design</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -178,8 +178,8 @@
             <div class="owl-services owl-carousel owl-theme">
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <a href="uploads/service_01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="uploads/service_01.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="assets/uploads/service_01.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/uploads/service_01.jpg" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>Smart Swatch Editions</h3>
@@ -190,8 +190,8 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <a href="uploads/service_02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="uploads/service_02.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="assets/uploads/service_02.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/uploads/service_02.jpg" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>Web UI Kit Design</h3>
@@ -202,8 +202,8 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <a href="uploads/service_03.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="uploads/service_03.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="assets/uploads/service_03.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/uploads/service_03.jpg" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>Mobile Optimization</h3>
@@ -214,8 +214,8 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <a href="uploads/service_04.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="uploads/service_04.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="assets/uploads/service_04.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/uploads/service_04.jpg" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>Digital Design for Mac</h3>
@@ -233,7 +233,7 @@
         </div><!-- end container -->
     </div><!-- end section -->
 
-    <div id="testimonials" class="parallax section db parallax-off" style="background-image:url('uploads/parallax_03.jpg');">
+    <div id="testimonials" class="parallax section db parallax-off" style="background-image:url('assets/uploads/parallax_03.jpg');">
         <div class="container">
             <div class="section-title text-center">
                 <h3>Testimonials</h3>
@@ -249,7 +249,7 @@
                                 <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="uploads/testi_01.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_01.png" alt="" class="img-responsive alignleft">
                                 <h4>James Fernando <small>- Manager of Racer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -262,7 +262,7 @@
                                 <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="uploads/testi_02.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_02.png" alt="" class="img-responsive alignleft">
                                 <h4>Jacques Philips <small>- Designer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -275,7 +275,7 @@
                                 <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
                             </div>
                             <div class="testi-meta">
-                                <img src="uploads/testi_03.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_03.png" alt="" class="img-responsive alignleft">
                                 <h4>Venanda Mercy <small>- Newyork City</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -287,7 +287,7 @@
                                 <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="uploads/testi_01.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_01.png" alt="" class="img-responsive alignleft">
                                 <h4>James Fernando <small>- Manager of Racer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -300,7 +300,7 @@
                                 <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="uploads/testi_02.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_02.png" alt="" class="img-responsive alignleft">
                                 <h4>Jacques Philips <small>- Designer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -313,7 +313,7 @@
                                 <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
                             </div>
                             <div class="testi-meta">
-                                <img src="uploads/testi_03.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_03.png" alt="" class="img-responsive alignleft">
                                 <h4>Venanda Mercy <small>- Newyork City</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -326,22 +326,22 @@
 
             <div class="row logos">
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="uploads/logo_01.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_01.png" alt="" class="img-repsonsive"></a>
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="uploads/logo_02.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_02.png" alt="" class="img-repsonsive"></a>
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="uploads/logo_03.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_03.png" alt="" class="img-repsonsive"></a>
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="uploads/logo_04.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_04.png" alt="" class="img-repsonsive"></a>
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="uploads/logo_05.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_05.png" alt="" class="img-repsonsive"></a>
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="uploads/logo_06.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_06.png" alt="" class="img-repsonsive"></a>
                 </div>
             </div><!-- end row -->
 
