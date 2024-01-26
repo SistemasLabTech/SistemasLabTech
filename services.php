@@ -21,8 +21,8 @@
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a  href="index.php">Inicio</a></li>
-                        <li><a  class="active" href="about-us.php">Acerca de</a></li>
-                        <li><a href="services.php">Nuestro servicios</a></li>
+                        <li><a   href="about-us.php">Acerca de</a></li>
+                        <li><a class="active" href="services.php">Nuestro servicios</a></li>
                         <li><a href="portfolio.php">Infraestructura</a></li>
 						<li><a href="contact.php">Contacto</a></li>
                     </ul>
