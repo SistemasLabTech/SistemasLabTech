@@ -17,7 +17,7 @@ Estamos comprometidos con nuestros clientes, empleados y proveedores, operando d
                 <div class="col-md-6">
                     <div class="post-media wow fadeIn">
                         <img src="assets/uploads/about_01.jpg" alt="" class="img-responsive img-rounded">
-                        <a href="http://www.youtube.com/watch?v=nrJtHemSPW4" data-rel="prettyPhoto[gal]" class="playbutton"><i class="flaticon-play-button"></i></a>
+                        <a href="https://youtu.be/Ny-e8O8wJdU?si=1Gp8_A7OlwU8ouTO" data-rel="prettyPhoto[gal]" class="playbutton"><i class="flaticon-play-button"></i></a>
                     </div><!-- end media -->
                 </div><!-- end col -->
             </div><!-- end row -->

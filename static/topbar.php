@@ -4,14 +4,16 @@
 				<div class="col-md-6 col-sm-6">
 					<div class="left-top">
 						<div class="email-box">
-							<a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i> youremail@gmail.com</a>
+							<a href="mailto: info@mepacsa.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> info@mepacsa.com</a>
+							
 						</div>
 						<div class="phone-box">
-							<a href="tel:1234567890"><i class="fa fa-phone" aria-hidden="true"></i> +1 234 567 890</a>
+							<a href="tel:3143367289"><i class="fa fa-phone" aria-hidden="true"></i>314 33 67374
+</a>
 						</div>
 					</div>
 				</div>
-				<!-- <div class="col-md-6 col-sm-6">
+				<div class="col-md-6 col-sm-6">
 					<div class="right-top">
 						<div class="social-box">
 							<ul>
@@ -23,7 +25,7 @@
 							<ul>
 						</div>
 					</div>
-				</div> -->
+				</div>
 			</div>
 		</div>
 	</div>

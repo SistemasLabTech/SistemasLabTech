@@ -3,7 +3,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="banner">
-						<h2>Contact</h2>
+						<h2>Contacto</h2>
 						<ul class="page-title-link">
 							<li><a href="index.php">Inicio</a></li>
 							<li><a href="contacto.php">Contacto</a></li>
