@@ -6,8 +6,7 @@
                         <div class="widget-title">
                             <img src="https://www.mepacsa.com/images/logo-foot.png" alt="" />
                         </div>
-                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
-                        <p>Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis montes.</p>
+                        <p>En Maniobras Estratégicas del Pacífico, S.A. de C.V. nace en el año 2003 con el objetivo de convertirse en una empresa especializada en logística internacional y comercio exterior, totalmente integrada para la planeación y desarrollo de procesos logísticos.</p>
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 
@@ -18,12 +17,11 @@
                         </div>
 
                         <ul class="footer-links hov">
-                            <li><a href="#">Home <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Blog <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Pricing <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">About <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Faq <span class="icon icon-arrow-right2"></span></a></li>
-							<li><a href="#">Contact <span class="icon icon-arrow-right2"></span></a></li>
+                            <li><a href="index.php">Inicio <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="about-us.php">Acerca de <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="services.php">Nuestros servicios <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="portfolio.php">Infraestructura <span class="icon icon-arrow-right2"></span></a></li>
+							<li><a href="contact.php">Contacto <span class="icon icon-arrow-right2"></span></a></li>
                         </ul><!-- end links -->
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
