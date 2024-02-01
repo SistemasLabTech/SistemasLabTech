@@ -7,9 +7,9 @@
  
      <!-- Site Metas -->
     <title>MEPACSA — Maniobras Estratégicas del Pacífico SA de CV</title>  
-    <meta name="keywords" content="">
+    <meta name="keywords" content="Patio contenedores, vaciós, basculas, certificación EMA">
     <meta name="description" content="15 años de trabajo continuo en el almacenaje y maniobras de gráneles como fertilizantes, concentrados de mineral, así como mercancía a deposito fiscal.">
-    <meta name="author" content="">
+    <meta name="author" content="Sistemas Lab Tech">
 
     <!-- Site Icons -->
     <link rel="shortcut icon" href="https://www.mepacsa.com/img/mepacsa.ico" type="image/x-icon" />
