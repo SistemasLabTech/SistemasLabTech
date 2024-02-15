@@ -1,10 +1,6 @@
 <!-- Basic -->
 <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">   
-   
-    <!-- Mobile Metas -->
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
- 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">      
      <!-- Site Metas -->
     <title>MEPACSA — Maniobras Estratégicas del Pacífico SA de CV</title>  
     <meta name="keywords" content="Patio contenedores, vaciós, basculas, certificación EMA">
