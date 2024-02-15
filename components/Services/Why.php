@@ -7,7 +7,7 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="about-item">
 						<div class="about-icon">
-							<span class="icon icon-display"></span>
+							<span class="icon"><img src="assets/icons/experiencia.png" width="25%" height="25%" ></span>
 						</div>
 						<div class="about-text">
 							<h3> <a href="#">12 AÑOS DE EXPERIENCIA EN EL MERCADO </a></h3>
@@ -17,7 +17,7 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="about-item">
 						<div class="about-icon">
-							<span class="icon icon-database"></span>
+						<span class="icon"><img src="assets/icons/control-de-calidad.png" width="25%" height="25%" ></span>
 						</div>
 						<div class="about-text">
 							<h3> <a href="#">MEJOR RELACIÓN CALIDAD-PRECIO </a></h3>
@@ -27,8 +27,7 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="about-item">
 						<div class="about-icon">
-							<span class="icon icon-magic-wand"></span>
-						</div>
+						<span class="icon"><img src="assets/icons/competencia.png" width="25%" height="25%" ></span>						</div>
 						<div class="about-text">
 							<h3> <a href="#">COMPETITIVIDAD EN EL MERCADO </a></h3>
 						</div>
@@ -40,7 +39,7 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="about-item">
 						<div class="about-icon">
-							<span class="icon icon-display"></span>
+						<span class="icon"><img src="assets/icons/solucion.png" width="25%" height="25%" ></span>
 						</div>
 						<div class="about-text">
 							<h3> <a href="#">SOLUCIONES A LAS NECESIDADES </a></h3>
@@ -50,7 +49,7 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="about-item">
 						<div class="about-icon">
-							<span class="icon icon-database"></span>
+						<span class="icon"><img src="assets/icons/confianza.png" width="25%" height="25%" ></span>
 						</div>
 						<div class="about-text">
 							<h3> <a href="#">FACTIBILIDAD DE MANIOBRAS OPERATIVAS </a></h3>
@@ -60,7 +59,7 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="about-item">
 						<div class="about-icon">
-							<span class="icon icon-cloud"></span>
+						<span class="icon"><img src="assets/icons/infraestructura.png" width="25%" height="25%" ></span>
 						</div>
 						<div class="about-text">
 							<h3> <a href="#">INFRAESTRUCTURA ROBUSTA Y SUFICIENTE </a></h3>
