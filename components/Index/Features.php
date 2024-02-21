@@ -10,14 +10,14 @@ Procuramos acciones que permitan la mejora continua mediante la asignación de r
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <ul class="features-left">
                         <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
-                            <i class="flaticon-wordpress-logo"></i>
+                            <i class="flaticon-support"></i>
                             <div class="fl-inner">
                                 <h4>BASCULAS </h4>
                                 <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
                             </div>
                         </li>
                         <li class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
-                            <i class="flaticon-windows"></i>
+                            <i class="flaticon-search"></i>
                             <div class="fl-inner">
                                 <h4>ALMACÉN FISCAL </h4>
                                 <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>
@@ -46,7 +46,7 @@ Procuramos acciones que permitan la mejora continua mediante la asignación de r
                             </div>
                         </li>
                         <li class="wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
-                            <i class="flaticon-cloud-computing"></i>
+                            <i class="flaticon-happy"></i>
                             <div class="fr-inner">
                                 <h4>ESPUELA DE FERROCARRIL </h4>
                                 <p>Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. </p>

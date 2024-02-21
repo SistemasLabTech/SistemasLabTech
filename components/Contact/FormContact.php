@@ -49,7 +49,7 @@
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</div>
 						<h3>Envíanos un correo electrónico</h3>
-						<p>info@mepacsa.com
+						<p>info@mepacsa.com <br> <br>
 					</div>
 					<div class="address-item">
 						<div class="address-icon">
