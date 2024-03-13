@@ -5,7 +5,6 @@
 </head>
 <body>
     <?php
-    include './static/loader.php';
     include './static/topbar.php';
     include './components/Index/Menu.php';
     include './components/Index/SlideArea.php';
