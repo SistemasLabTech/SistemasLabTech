@@ -5,13 +5,21 @@
      <!-- Site Metas -->
     <title>MEPACSA — Maniobras Estratégicas del Pacífico SA de CV</title>  
     <meta name="keywords" content="Patio contenedores, vaciós, basculas, certificación EMA">
-    <meta name="description" content="15 años de trabajo continuo en el almacenaje y maniobras de gráneles como fertilizantes, concentrados de mineral, así como mercancía a deposito fiscal.">
+    <meta name="description" content="20 años de trabajo continuo en el almacenaje y maniobras de gráneles como fertilizantes, concentrados de mineral, así como mercancía a deposito fiscal.">
     <meta name="author" content="Sistemas Lab Tech">
 
     <!-- Site Icons -->
     <link rel="manifest" href="manifest.json" />
     <link rel="shortcut icon" href="https://www.mepacsa.com/img/mepacsa.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="https://www.mepacsa.com/img/mepacsa.ico">
+    <link rel="apple-touch-icon" href="assets/icons/logo_72x72.png">
+    <link rel="apple-touch-icon" href="assets/icons/logo_72x72.png" />
+    <link rel="apple-touch-icon" href="assets/icons/logo_96x96.png" />
+    <link rel="apple-touch-icon" href="assets/icons/logo_128x128.png" />
+    <link rel="apple-touch-icon" href="assets/icons/logo_144x144.png" />
+    <link rel="apple-touch-icon" href="assets/icons/logo_152x152.png" />
+    <link rel="apple-touch-icon" href="assets/icons/logo_192x192.png" />
+    <link rel="apple-touch-icon" href="assets/icons/logo_384x384.png" />
+    <link rel="apple-touch-icon" href="assets/icons/logo_512x512.png" />
     <meta name="apple-mobile-web-app-status-bar" content="#db4938" />
     <meta name="theme-color" content="#db4938" />
     <!-- Bootstrap CSS -->
