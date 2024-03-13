@@ -44,7 +44,7 @@
         </div><!-- end container -->
     </div><!-- end copyrights -->
 
-    <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
+    <a href="#" id="scroll-to-top" aria-label="Ir al inicio de la página" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->
     <script  src="assets/js/all.js"></script>
