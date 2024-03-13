@@ -51,4 +51,5 @@
     <!-- ALL PLUGINS -->
     <script defer async src="assets/js/custom.js"></script>
     <script defer async src="assets/js/portfolio.js"></script>
-    <script defer async  src="assets/js/hoverdir.js"></script>    
+    <script defer async src="assets/js/hoverdir.js"></script>
+    <script defer async src="pwa/app.js"></script>    
