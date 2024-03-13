@@ -9,6 +9,12 @@
   "description": "Empresa dedicada a proporcionar servicios de almacenaje y maniobra.",
   "icons": [
     {
+      "src": "assets/icons/logo_196x196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
       "src": "assets/icons/logo_72x72.png",
       "type": "image/png",
       "sizes": "72x72"
