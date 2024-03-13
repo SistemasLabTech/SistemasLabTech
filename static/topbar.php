@@ -16,13 +16,13 @@
 				<div class="col-md-6 col-sm-6">
 					<div class="right-top">
 						<div class="social-box">
-							<ul>
+							<!-- <ul>
 								<li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
 								<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 								<li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
 								<li><a href="#"><i class="fa fa-rss-square" aria-hidden="true"></i></a></li>
-							<ul>
+							<ul> -->
 						</div>
 					</div>
 				</div>
