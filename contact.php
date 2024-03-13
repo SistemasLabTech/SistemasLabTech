@@ -5,6 +5,7 @@
 </head>
 <body>
     <?php
+    include './static/loader.php';
     include './static/topbar.php';
     include './components/Contact/Menu.php';
     include './components/Contact/Banner.php';
