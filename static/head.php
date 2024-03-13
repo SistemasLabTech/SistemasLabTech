@@ -16,7 +16,7 @@
     <link rel="apple-touch-icon" href="assets/icons/logo_72x72.png" />
     <link rel="apple-touch-icon" href="assets/icons/logo_96x96.png" />
     <link rel="apple-touch-icon" href="assets/icons/logo_128x128.png" />
-    <link rel="apple-touch-icon" href="assets/icons/logo_142x142.png" />
+    <link rel="apple-touch-icon" href="assets/icons/logo_144x144.png" />
     <link rel="apple-touch-icon" href="assets/icons/logo_152x152.png" />
     <link rel="apple-touch-icon" href="assets/icons/logo_192x192.png" />
     <link rel="apple-touch-icon" href="assets/icons/logo_384x384.png" />
