@@ -15,11 +15,11 @@
     <!-- Bootstrap CSS -->
     <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="assets/css/bootstrap.min.css" media="all">
     <!-- Site CSS -->
-    <link rel="stylesheet" href="assets/style.css" media="all">
+    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="assets/style.css" media="all">
     <!-- Responsive CSS -->
-    <link rel="stylesheet" href="assets/css/responsive.css" media="all">
+    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="assets/css/responsive.css" media="all">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="assets/css/custom.css" media="all">
+    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="assets/css/custom.css" media="all">
 
     <!-- Modernizer for Portfolio -->
     <script src="assets/js/modernizer.js" defer async ></script>
