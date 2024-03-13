@@ -11,7 +11,7 @@
     <!-- Site Icons -->
     <link rel="manifest" href="manifest.json" />
     <link rel="shortcut icon" href="https://www.mepacsa.com/img/mepacsa.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="assets/icons/logo_72x72.png">
+    <link rel="apple-touch-icon" href="https://www.mepacsa.com/img/mepacsa.ico">
     <meta name="apple-mobile-web-app-status-bar" content="#db4938" />
     <meta name="theme-color" content="#db4938" />
     <!-- Bootstrap CSS -->
