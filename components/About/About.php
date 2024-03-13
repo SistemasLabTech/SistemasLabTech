@@ -16,7 +16,7 @@ Estamos comprometidos con nuestros clientes, empleados y proveedores, operando d
 
                 <div class="col-md-6">
                     <div class="post-media wow fadeIn">
-                        <img src="assets/uploads/about_01.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="assets/uploads/about_01.webp" alt="" class="img-responsive img-rounded">
                         <a href="https://youtu.be/Ny-e8O8wJdU?si=1Gp8_A7OlwU8ouTO" data-rel="prettyPhoto[gal]" class="playbutton"><i class="flaticon-play-button"></i></a>
                     </div><!-- end media -->
                 </div><!-- end col -->
@@ -27,7 +27,7 @@ Estamos comprometidos con nuestros clientes, empleados y proveedores, operando d
             <div class="row">
 				<div class="col-md-6">
                     <div class="post-media wow fadeIn">
-                        <img src="assets/uploads/about_02.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="assets/uploads/about_02.webp" alt="" class="img-responsive img-rounded">
                     </div><!-- end media -->
                 </div><!-- end col -->
 				

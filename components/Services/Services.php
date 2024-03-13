@@ -5,7 +5,7 @@
             <div class="owl-services owl-carousel owl-theme">
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <img src="assets/uploads/portfolio_04.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="assets/uploads/portfolio_04.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>Basculas</h3>
@@ -16,7 +16,7 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <img src="assets/uploads/portfolio_02.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="assets/uploads/portfolio_02.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>Almacén Fiscal</h3>
@@ -27,7 +27,7 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <img src="assets/uploads/portfolio_06.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="assets/uploads/portfolio_06.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>Fertilizantes</h3>
@@ -38,7 +38,7 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <img src="assets/uploads/portfolio_05.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="assets/uploads/portfolio_05.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>Transportes</h3>
@@ -48,7 +48,7 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <img src="assets/uploads/portfolio_04.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="assets/uploads/portfolio_04.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>Mineral</h3>
@@ -58,7 +58,7 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <img src="assets/uploads/portfolio_03.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="assets/uploads/portfolio_03.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>Espuela de mineral</h3>

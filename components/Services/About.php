@@ -8,7 +8,7 @@
 				<div class="col-md-3 col-sm-6">
 					<div class="about-item">
 						<div class="about-icon">
-						<span class="icon"><img src="assets/icons/pesaje-de-entrega.png" width="25%" height="25%" ></span>
+						<span class="icon"><img src="assets/icons/pesaje-de-entrega.webp" width="25%" height="25%" ></span>
 						</div>
 						<div class="about-text">
 							<h3> <a href="#">Basculas electromecánicas </a></h3>
@@ -19,7 +19,7 @@
 				<div class="col-md-3 col-sm-6">
 					<div class="about-item">
 						<div class="about-icon">
-						<span class="icon"><img src="assets/icons/escala-de-peso.png" width="25%" height="25%" ></span>
+						<span class="icon"><img src="assets/icons/escala-de-peso.webp" width="25%" height="25%" ></span>
 						</div>
 						<div class="about-text">
 							<h3> <a href="#">Servicio de Pesaje SOLAS </a></h3>
@@ -30,7 +30,7 @@
 				<div class="col-md-3 col-sm-6">
 					<div class="about-item">
 						<div class="about-icon">
-						<span class="icon"><img src="assets/icons/documentos.png" width="25%" height="25%" ></span>
+						<span class="icon"><img src="assets/icons/documentos.webp" width="25%" height="25%" ></span>
 						</div>
 						<div class="about-text">
 							<h3> <a href="#">Emisión de VGM (Verified Gross Mass) </a></h3>
@@ -41,7 +41,7 @@
 				<div class="col-md-3 col-sm-6">
 					<div class="about-item">
 						<div class="about-icon">
-						<span class="icon"><img src="assets/icons/documento.png" width="25%" height="25%" ></span>
+						<span class="icon"><img src="assets/icons/documento.webp" width="25%" height="25%" ></span>
 						</div>
 						<div class="about-text">
 							<h3> <a href="#">EMA” Certified Weighing Center </a></h3>

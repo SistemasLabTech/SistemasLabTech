@@ -1,4 +1,4 @@
-<div class="parallax section noover" data-stellar-background-ratio="0.7" style="background-image:url('assets/uploads/parallax_05.png');">
+<div class="parallax section noover" data-stellar-background-ratio="0.7" style="background-image:url('assets/uploads/parallax_05.webp');">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-6">
@@ -18,7 +18,7 @@
                 </div><!-- end col -->
 				<div class="col-md-6">
                     <div class="text-center image-center hidden-sm hidden-xs">
-                        <img src="assets/uploads/device_03.png" alt="" class="img-responsive wow fadeInUp">
+                        <img src="assets/uploads/device_03.webp" alt="" class="img-responsive wow fadeInUp">
                     </div>
                 </div>
             </div><!-- end row -->

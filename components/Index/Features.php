@@ -34,7 +34,7 @@ Procuramos acciones que permitan la mejora continua mediante la asignación de r
                     </ul>
                 </div>
                 <div class="col-md-4 hidden-xs hidden-sm">
-                    <!-- <img src="assets/uploads/ipad.png" class="img-center img-responsive" alt=""> -->
+                    <!-- <img src="assets/uploads/ipad.webp" class="img-center img-responsive" alt=""> -->
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <ul class="features-right">

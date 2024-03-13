@@ -11,8 +11,8 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <a href="assets/uploads/portfolio_04.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="assets/uploads/portfolio_04.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="assets/uploads/portfolio_04.webp" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/uploads/portfolio_04.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>BASCULAS </h3>
@@ -23,8 +23,8 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <a href="assets/uploads/service_03.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="assets/uploads/service_03.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="assets/uploads/service_03.webp" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/uploads/service_03.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>ALMACÉN FISCAL </h3>
@@ -35,8 +35,8 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <a href="assets/uploads/service_04.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="assets/uploads/service_04.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="assets/uploads/service_04.webp" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/uploads/service_04.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>FERTILIZANTES </h3>
@@ -46,8 +46,8 @@
 
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <a href="assets/uploads/service_04.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="assets/uploads/service_04.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="assets/uploads/service_04.webp" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/uploads/service_04.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>TRANSPORTES  </h3>
@@ -56,8 +56,8 @@
                 </div>
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <a href="assets/uploads/service_04.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="assets/uploads/service_04.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="assets/uploads/service_04.webp" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/uploads/service_04.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>MINERAL  </h3>
@@ -66,8 +66,8 @@
                 </div>
                 <div class="service-widget">
                     <div class="post-media wow fadeIn">
-                        <a href="assets/uploads/service_04.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
-                        <img src="assets/uploads/service_04.jpg" alt="" class="img-responsive img-rounded">
+                        <a href="assets/uploads/service_04.webp" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="flaticon-unlink"></i></a>
+                        <img src="assets/uploads/service_04.webp" alt="" class="img-responsive img-rounded">
                     </div>
 					<div class="service-dit">
 						<h3>ESPUELA DE FERROCARRIL  </h3>

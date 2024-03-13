@@ -24,8 +24,8 @@
 
             <div id="da-thumbs" class="da-thumbs portfolio">
                 <div class="post-media pitem item-w1 item-h1 cat1">
-                    <a href="assets/uploads/portfolio_01.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="assets/uploads/portfolio_01.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_01.webp" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_01.webp" alt="" class="img-responsive">
                         <div>
                             <h3>Acceso <small>Mepacsa</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -33,8 +33,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat1">
-                    <a href="assets/uploads/portfolio_02.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="assets/uploads/portfolio_02.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_02.webp" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_02.webp" alt="" class="img-responsive">
                         <div>
                             <h3>Oficinas  <small>centrales</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -42,8 +42,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat2">
-                    <a href="assets/uploads/portfolio_03.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="assets/uploads/portfolio_03.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_03.webp" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_03.webp" alt="" class="img-responsive">
                         <div>
                             <h3>Patíos de vacíos <small>Carretera Manzanillo-Minatilán 1.2 KM</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -51,8 +51,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat3">
-                    <a href="assets/uploads/portfolio_04.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="assets/uploads/portfolio_04.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_04.webp" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_04.webp" alt="" class="img-responsive">
                         <div>
                             <h3>Vigilancia 24/7 <small>Guardias de seguridad y CCTV</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -60,8 +60,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat2">
-                    <a href="assets/uploads/portfolio_05.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="assets/uploads/portfolio_05.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_05.webp" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_05.webp" alt="" class="img-responsive">
                         <div>
                             <h3>Patio  <small>regulador</small></h3>
                             <i class="flaticon-unlink"></i>
@@ -69,8 +69,8 @@
                     </a>
                 </div>
                 <div class="post-media pitem item-w1 item-h1 cat3">
-                    <a href="assets/uploads/portfolio_06.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="assets/uploads/portfolio_06.jpg" alt="" class="img-responsive">
+                    <a href="assets/uploads/portfolio_06.webp" data-rel="prettyPhoto[gal]">
+                        <img src="assets/uploads/portfolio_06.webp" alt="" class="img-responsive">
                         <div>
                             <h3>2 Basculas electromecánicas <small>Certificadas y verificadas ante EMA</small></h3>
                             <i class="flaticon-unlink"></i>

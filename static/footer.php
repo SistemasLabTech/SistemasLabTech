@@ -4,7 +4,7 @@
                 <div class="col-md-4 col-sm-4 col-xs-12">
                     <div class="widget clearfix">
                         <div class="widget-title">
-                            <img src="https://www.mepacsa.com/images/logo-foot.png" alt="" />
+                            <img src="assets/uploads/logomepac.webp" alt="Logo Footer" />
                         </div>
                         <p>En Maniobras Estratégicas del Pacífico, S.A. de C.V. nace en el año 2003 con el objetivo de convertirse en una empresa especializada en logística internacional y comercio exterior, totalmente integrada para la planeación y desarrollo de procesos logísticos.</p>
                     </div><!-- end clearfix -->

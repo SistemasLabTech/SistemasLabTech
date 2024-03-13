@@ -1,4 +1,4 @@
-<div id="testimonials" class="parallax section db parallax-off" style="background-image:url('assets/uploads/parallax_03.jpg');">
+<div id="testimonials" class="parallax section db parallax-off" style="background-image:url('assets/uploads/parallax_03.webp');">
         <div class="container">
             <div class="section-title text-center">
                 <h3>Testimonials</h3>
@@ -14,7 +14,7 @@
                                 <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="assets/uploads/testi_01.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_01.webp" alt="" class="img-responsive alignleft">
                                 <h4>James Fernando <small>- Manager of Racer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -27,7 +27,7 @@
                                 <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="assets/uploads/testi_02.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_02.webp" alt="" class="img-responsive alignleft">
                                 <h4>Jacques Philips <small>- Designer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -40,7 +40,7 @@
                                 <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
                             </div>
                             <div class="testi-meta">
-                                <img src="assets/uploads/testi_03.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_03.webp" alt="" class="img-responsive alignleft">
                                 <h4>Venanda Mercy <small>- Newyork City</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -52,7 +52,7 @@
                                 <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="assets/uploads/testi_01.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_01.webp" alt="" class="img-responsive alignleft">
                                 <h4>James Fernando <small>- Manager of Racer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -65,7 +65,7 @@
                                 <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
                             </div>
                             <div class="testi-meta">
-                                <img src="assets/uploads/testi_02.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_02.webp" alt="" class="img-responsive alignleft">
                                 <h4>Jacques Philips <small>- Designer</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -78,7 +78,7 @@
                                 <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
                             </div>
                             <div class="testi-meta">
-                                <img src="assets/uploads/testi_03.png" alt="" class="img-responsive alignleft">
+                                <img src="assets/uploads/testi_03.webp" alt="" class="img-responsive alignleft">
                                 <h4>Venanda Mercy <small>- Newyork City</small></h4>
                             </div>
                             <!-- end testi-meta -->
@@ -91,22 +91,22 @@
 
             <div class="row logos">
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="assets/uploads/logo_01.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_01.webp" alt="" class="img-repsonsive"></a>
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="assets/uploads/logo_02.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_02.webp" alt="" class="img-repsonsive"></a>
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="assets/uploads/logo_03.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_03.webp" alt="" class="img-repsonsive"></a>
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="assets/uploads/logo_04.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_04.webp" alt="" class="img-repsonsive"></a>
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="assets/uploads/logo_05.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_05.webp" alt="" class="img-repsonsive"></a>
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6 wow fadeInUp">
-                    <a href="#"><img src="assets/uploads/logo_06.png" alt="" class="img-repsonsive"></a>
+                    <a href="#"><img src="assets/uploads/logo_06.webp" alt="" class="img-repsonsive"></a>
                 </div>
             </div><!-- end row -->
 

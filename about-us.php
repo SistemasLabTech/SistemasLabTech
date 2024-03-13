@@ -10,7 +10,6 @@
     include './components/About/Menu.php';
     include './components/About/Banner.php';
     include './components/About/About.php';
-    include './components/About/Testimoniales.php';
     include './static/footer.php';
     ?>   
 </body>

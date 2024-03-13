@@ -1,4 +1,4 @@
-<div class="parallax section parallax-off" data-stellar-background-ratio="0.9" style="background-image:url('assets/uploads/parallax_04.jpg');">
+<div class="parallax section parallax-off" data-stellar-background-ratio="0.9" style="background-image:url('assets/uploads/parallax_04.webp');">
         <div class="container">
             <div class="row text-center stat-wrap">
                 <div class="col-md-3 col-sm-6 col-xs-12">
