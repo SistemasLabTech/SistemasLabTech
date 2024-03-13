@@ -13,7 +13,7 @@
     <link rel="apple-touch-icon" href="https://www.mepacsa.com/img/mepacsa.ico">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" media="all">
+    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'"       href="assets/css/bootstrap.min.css" media="all">
     <!-- Site CSS -->
     <link rel="stylesheet" href="assets/style.css" media="all">
     <!-- Responsive CSS -->
