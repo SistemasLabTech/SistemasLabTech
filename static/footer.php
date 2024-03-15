@@ -22,6 +22,7 @@
 							<li><a href="services.php">Nuestros servicios <span class="icon icon-arrow-right2"></span></a></li>
 							<li><a href="portfolio.php">Infraestructura <span class="icon icon-arrow-right2"></span></a></li>
 							<li><a href="contact.php">Contacto <span class="icon icon-arrow-right2"></span></a></li>
+                            <li><a href="assets/docs/AVISO DE PRIVACIDAD MEPACSA.pdf">Aviso de Privacidad <span class="icon icon-arrow-right2"></span></a></li>
                         </ul><!-- end links -->
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
@@ -35,8 +36,7 @@
         <div class="container">
             <div class="footer-distributed">
                 <div class="footer-left">                   
-                    <p class="footer-company-name">Todos los derechos reservados. &copy; 2024 <a href="https://www.mepacsa.com/">Maniobras Estratégicas del Pacífico S.A. de C.V.</a> Desarrollado por: 
-					<a href="https://sistemaslab.tech/">Sistemas Lab Tech</a></p>
+                    <p class="footer-company-name">Todos los derechos reservados. &copy; 2024 <a href="https://www.mepacsa.com/">Maniobras Estratégicas del Pacífico S.A. de C.V.</a></p>
                 </div>
 
                 
