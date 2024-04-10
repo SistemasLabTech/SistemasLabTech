@@ -13,7 +13,7 @@
                             <li><i class="fa fa-check"></i> Calidad en los servicios que se ofrecen.</li>
                             <li><i class="fa fa-check"></i> Efectividad y confianza en las operacones realizadas</li>
                         </ul><!-- end list -->
-                        <a href="#services" data-scroll class="btn btn-light btn-radius btn-brd">Acerca de</a>
+                        <a href="about-us.php" data-scroll class="btn btn-light btn-radius btn-brd">Acerca de</a>
                     </div>
                 </div><!-- end col -->
 				<div class="col-md-6">

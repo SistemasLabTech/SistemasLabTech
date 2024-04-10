@@ -10,13 +10,13 @@ Estamos comprometidos con nuestros clientes, empleados y proveedores, operando d
 
                         <p> Maniobras Estratégicas del Pacifico S.A. de C.V. es una empresa dedicada a proporcionar servicios de almacenaje y maniobra en el puerto de Manzanillo. Contamos con una larga trayectoria en el mercado y cada uno de nuestros miembros  desempeña un papel importante para construir y defender la buena reputación, prácticas de ética empresarial e integridad de nuestros servicios. . </p>
 
-                        <a href="#services" class="btn btn-light btn-radius btn-brd grd1">Acerca de</a>
+                        <a href="about-us.php" class="btn btn-light btn-radius btn-brd grd1">Acerca de</a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
 
                 <div class="col-md-6">
                     <div class="post-media wow fadeIn">
-                        <img src="assets/uploads/about_01.webp" alt="" class="img-responsive img-rounded">
+                        <img src="assets/uploads/about_01.webp" alt="acerca_imagen_uno" class="img-responsive img-rounded">
                         <a href="https://youtu.be/Ny-e8O8wJdU?si=1Gp8_A7OlwU8ouTO" aria-label="Video de Mepacsa" data-rel="prettyPhoto[gal]" class="playbutton"><i class="flaticon-play-button"></i></a>
                     </div><!-- end media -->
                 </div><!-- end col -->
@@ -27,7 +27,7 @@ Estamos comprometidos con nuestros clientes, empleados y proveedores, operando d
             <div class="row">
 				<div class="col-md-6">
                     <div class="post-media wow fadeIn">
-                        <img src="assets/uploads/about_02.webp" alt="" class="img-responsive img-rounded">
+                        <img src="assets/uploads/about_02.webp" alt="acerca_imagen_dos" class="img-responsive img-rounded">
                     </div><!-- end media -->
                 </div><!-- end col -->
 				
@@ -40,7 +40,7 @@ Estamos comprometidos con nuestros clientes, empleados y proveedores, operando d
                         <p> 
 Procuramos acciones que permitan la mejora continua mediante la asignación de recursos necesarios y gestión de calidad, nos responsabilizamos de realizar negocios éticos, así como, de entregar servicios altamente satisfactorios a nuestros clientes.. </p>
 
-                        <a href="#services" class="btn btn-light btn-radius btn-brd grd1">Acerca de</a>
+                        <a href="about-us.php" class="btn btn-light btn-radius btn-brd grd1">Acerca de</a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
             </div><!-- end row -->

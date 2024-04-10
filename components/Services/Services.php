@@ -9,7 +9,7 @@
                     </div>
 					<div class="service-dit">
 						<h3>Basculas</h3>
-						<p>Aliquam sagittis ligula et sem lacinia, ut facilisis enim sollicitudin. Proin nisi est, convallis nec purus vitae, iaculis posuere sapien. Cum sociis natoque.</p>
+						<!-- <p>Aliquam sagittis ligula et sem lacinia, ut facilisis enim sollicitudin. Proin nisi est, convallis nec purus vitae, iaculis posuere sapien. Cum sociis natoque.</p> -->
 					</div>
                 </div>
                 <!-- end service -->
@@ -20,7 +20,7 @@
                     </div>
 					<div class="service-dit">
 						<h3>Almacén Fiscal</h3>
-						<p>Duis at tellus at dui tincidunt scelerisque nec sed felis. Suspendisse id dolor sed leo rutrum euismod. Nullam vestibulum fermentum erat. It nam auctor. </p>
+						<!-- <p>Duis at tellus at dui tincidunt scelerisque nec sed felis. Suspendisse id dolor sed leo rutrum euismod. Nullam vestibulum fermentum erat. It nam auctor. </p> -->
 					</div>
                 </div>
                 <!-- end service -->
@@ -31,7 +31,7 @@
                     </div>
 					<div class="service-dit">
 						<h3>Fertilizantes</h3>
-						<p>Etiam materials ut mollis tellus, vel posuere nulla. Etiam sit amet lacus vitae massa sodales aliquam at eget quam. Integer ultricies et magna quis accumsan.</p>
+						<!-- <p>Etiam materials ut mollis tellus, vel posuere nulla. Etiam sit amet lacus vitae massa sodales aliquam at eget quam. Integer ultricies et magna quis accumsan.</p> -->
 					</div>
                 </div>
                 <!-- end service -->
@@ -42,7 +42,7 @@
                     </div>
 					<div class="service-dit">
 						<h3>Transportes</h3>
-						<p>Praesent in neque congue sapien lobortis faucibus id eget erat. <br>Pellentesque maximus rutrum felis. Interdum et malesuada fames ac.</p>
+						<!-- <p>Praesent in neque congue sapien lobortis faucibus id eget erat. <br>Pellentesque maximus rutrum felis. Interdum et malesuada fames ac.</p> -->
 					</div>
                 </div>
 
@@ -52,7 +52,7 @@
                     </div>
 					<div class="service-dit">
 						<h3>Mineral</h3>
-						<p>Praesent in neque congue sapien lobortis faucibus id eget erat. <br>Pellentesque maximus rutrum felis. Interdum et malesuada fames ac.</p>
+						<!-- <p>Praesent in neque congue sapien lobortis faucibus id eget erat. <br>Pellentesque maximus rutrum felis. Interdum et malesuada fames ac.</p> -->
 					</div>
                 </div>
 
@@ -62,7 +62,7 @@
                     </div>
 					<div class="service-dit">
 						<h3>Espuela de mineral</h3>
-						<p>Praesent in neque congue sapien lobortis faucibus id eget erat. <br>Pellentesque maximus rutrum felis. Interdum et malesuada fames ac.</p>
+						<!-- <p>Praesent in neque congue sapien lobortis faucibus id eget erat. <br>Pellentesque maximus rutrum felis. Interdum et malesuada fames ac.</p> -->
 					</div>
                 </div>
             </div><!-- end row -->

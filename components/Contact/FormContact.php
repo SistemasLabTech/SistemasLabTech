@@ -41,21 +41,21 @@
 						<div class="address-icon">
 							<i class="icon icon-location2"></i>
 						</div>
-						<h3>Manzanillo</h3>
+						<h3>Dirección</h3>
 						<p>Acambaro #444, Col. Tapeixtles, <br> C.P.: 28876 Manzanillo, Colima, Mx.
 					</div>
 					<div class="address-item">
 						<div class="address-icon">
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</div>
-						<h3>Envíanos un correo electrónico</h3>
+						<h3>Correo electrónico</h3>
 						<p>info@mepacsa.com <br> <br>
 					</div>
 					<div class="address-item">
 						<div class="address-icon">
 							<i class="icon icon-headphones"></i>
 						</div>
-						<h3>Llama al</h3>
+						<h3>Números teléfonico</h3>
 						<p>314 33 67374
 							<br>314 33 67289
                     </p>

@@ -10,7 +10,7 @@ Estamos comprometidos con nuestros clientes, empleados y proveedores, operando d
 
                         <p> Maniobras Estratégicas del Pacifico S.A. de C.V. es una empresa dedicada a proporcionar servicios de almacenaje y maniobra en el puerto de Manzanillo. Contamos con una larga trayectoria en el mercado y cada uno de nuestros miembros  desempeña un papel importante para construir y defender la buena reputación, prácticas de ética empresarial e integridad de nuestros servicios. . </p>
 
-                        <a href="#services" class="btn btn-light btn-radius btn-brd grd1">Acerca de</a>
+                        <a href="about-us.php" class="btn btn-light btn-radius btn-brd grd1">Acerca de</a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
 
@@ -40,7 +40,7 @@ Estamos comprometidos con nuestros clientes, empleados y proveedores, operando d
                         <p> 
 Procuramos acciones que permitan la mejora continua mediante la asignación de recursos necesarios y gestión de calidad, nos responsabilizamos de realizar negocios éticos, así como, de entregar servicios altamente satisfactorios a nuestros clientes.. </p>
 
-                        <a href="#services" class="btn btn-light btn-radius btn-brd grd1">Acerca de</a>
+                        <a href="about-us.php" class="btn btn-light btn-radius btn-brd grd1">Acerca de</a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
             </div><!-- end row -->
